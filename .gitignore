@@ -1,0 +1,10 @@
+# Folder yang tidak ingin di-upload
+venv/
+node_modules/
+dist/
+__pycache__/
+
+# File sensitif
+.env
+secrets.txt
+.wwebjs_auth/
